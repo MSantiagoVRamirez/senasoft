@@ -1,6 +1,6 @@
 # PlanBert: Asistente Educativo Multimodal
 
-![PlanBert](A_semi-realistic_digital_painting_portrait_feature.png)
+![PlanBert](PlanBert.Profile.png)
 
 ## Descripción General
 
